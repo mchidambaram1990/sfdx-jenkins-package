@@ -4,9 +4,9 @@ import groovy.json.JsonSlurperClassic
 
 node {
 
-    def SF_CONSUMER_KEY=env.SF_CONSUMER_KEY
-    def SF_USERNAME=env.SF_USERNAME
-    def SERVER_KEY_CREDENTALS_ID=env.SERVER_KEY_CREDENTALS_ID
+    def SF_CONSUMER_KEY="3MVG9n_HvETGhr3CZJRKTDvtl0h4BnZnVfGSTpJtny43U_tRc69UYQXlhHuCLAn785k0BgNBoBwwoW6mPHGoW"
+    def SF_USERNAME="meiyappan.chidambaram@cevo.com.au"
+    def SERVER_KEY_CREDENTALS_ID='08e9b5d3-61ea-4f5f-a4c3-dc96bfa2efa'
     def TEST_LEVEL='RunLocalTests'
     def PACKAGE_NAME='0Ho1U000000CaUzSAK'
     def PACKAGE_VERSION
