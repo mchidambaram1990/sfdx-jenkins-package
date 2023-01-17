@@ -1,7 +1,12 @@
 {
     "orgName": "CI Example",
     "edition": "Developer",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+    "settings": {
+      "experienceBundleSettings": {
+        "enableExperienceBundleMetadata": true
+      },
+      "communitiesSettings": {
+        "enableNetworksEnabled": true
+      }
     }
 }
